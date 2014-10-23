@@ -108,6 +108,12 @@ namespace DisableSpells
                 ChampionName = "Tristana",
                 AvailableSpell = SpellSlot.Q
             });
+            
+            Spells.Add(new SpellStruct
+            {
+                ChampionName = "Swain",
+                AvailableSpell = SpellSlot.R
+            });
 
             /*
              * Ashe:
